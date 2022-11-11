@@ -2,9 +2,9 @@
 
 # Just a basic script U can improvise lateron asper ur need xD 
 
-MANIFEST="https://github.com/SHRP/platform_manifest_twrp_omni -b v3_10.0"
+MANIFEST="https://gitlab.com/OrangeFox/Manifest.git -b fox_9.0"
 DEVICE=E6746
-DT_LINK="https://github.com/mastersenpai05/twrp_micromax_e6746 -b shrp-10.0"
+DT_LINK="https://github.com/Velosh/android_device_samsung_a50dd.git -b fox_9.0"
 DT_PATH=device/micromax/$DEVICE
 
 echo " ===+++ Setting up Build Environment +++==="
